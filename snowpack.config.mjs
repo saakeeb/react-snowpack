@@ -2,7 +2,7 @@
 export default {
   mount: {
     // directory name: 'build directory'
-    public: "/",
+    public: '/',
     src: "/dist",
   },
   plugins: ["@snowpack/plugin-react-refresh"],
