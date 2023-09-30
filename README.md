@@ -1,5 +1,6 @@
 # New Project
 
+> ✨ Snowpack is a modern, lightweight build tool for faster web development.
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
