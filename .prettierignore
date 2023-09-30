@@ -1,0 +1,11 @@
+yarn.lock
+.prettierignore
+.yarn/*
+build/*
+dist/*
+cypress/*
+node_modules/*
+tailwind.config.js
+tsconfig.json
+vite.config.js
+postcss.config.js
