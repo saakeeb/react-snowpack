@@ -3,9 +3,9 @@ export default {
   mount: {
     // directory name: 'build directory'
     public: '/',
-    src: "/dist",
+    src: '/dist',
   },
-  plugins: ["@snowpack/plugin-react-refresh"],
+  plugins: ['@snowpack/plugin-react-refresh'],
   routes: [
     /* Enable an SPA Fallback in development: */
     // {"match": "routes", "src": ".*", "dest": "/index.html"},
